@@ -1,0 +1,1 @@
+# mcsb-adoproject-template
