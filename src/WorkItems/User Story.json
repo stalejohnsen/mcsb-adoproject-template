@@ -1,0 +1,3447 @@
+{
+  "count": 86,
+  "value": [
+    {
+      "id": 2525,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "NS-1. Establish network segmentation boundaries",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-1-establish-network-segmentation-boundaries\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-1-establish-network-segmentation-boundaries</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2524",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2525"
+    },
+    {
+      "id": 2526,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "NS-2. Secure cloud native services with network controls",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-2-secure-cloud-native-services-with-network-controls\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-2-secure-cloud-native-services-with-network-controls</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2524",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2526"
+    },
+    {
+      "id": 2527,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "NS-3. Deploy firewall at the edge of enterprise network",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-3-deploy-firewall-at-the-edge-of-enterprise-network\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-3-deploy-firewall-at-the-edge-of-enterprise-network</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2524",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2527"
+    },
+    {
+      "id": 2528,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "NS-4. Deploy intrusion detection/intrusion prevention systems (IDS/IPS)",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-4-deploy-intrusion-detectionintrusion-prevention-systems-idsips\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-4-deploy-intrusion-detectionintrusion-prevention-systems-idsips</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2524",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2528"
+    },
+    {
+      "id": 2529,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "NS-5. Deploy DDOS protection",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-5-deploy-ddos-protection\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-5-deploy-ddos-protection</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2524",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2529"
+    },
+    {
+      "id": 2530,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "NS-6. Deploy web application firewall",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-6-deploy-web-application-firewall\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-6-deploy-web-application-firewall</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2524",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2530"
+    },
+    {
+      "id": 2531,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "NS-7. Simplify network security configuration",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-7-simplify-network-security-configuration\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-7-simplify-network-security-configuration</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2524",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2531"
+    },
+    {
+      "id": 2532,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "NS-8. Detect and disable insecure services and  protocols",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-8-detect-and-disable-insecure-services-and-protocols\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-8-detect-and-disable-insecure-services-and-protocols</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2524",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2532"
+    },
+    {
+      "id": 2533,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "NS-9. Connect on-premises or cloud network privately",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-3-deploy-firewall-at-the-edge-of-enterprise-network\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-9-connect-on-premises-or-cloud-network-privately</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2524",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2533"
+    },
+    {
+      "id": 2534,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "NS-10. Ensure Domain Name System (DNS) security",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-10-ensure-domain-name-system-dns-security\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-network-security#ns-10-ensure-domain-name-system-dns-security</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2524",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2534"
+    },
+    {
+      "id": 2536,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IM-1. Use centralized identity and authentication system",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-1-use-centralized-identity-and-authentication-system\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-1-use-centralized-identity-and-authentication-system</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2535",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2536"
+    },
+    {
+      "id": 2537,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IM-2. Protect identity and authentication systems",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-2-protect-identity-and-authentication-systems\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-2-protect-identity-and-authentication-systems</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2535",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2537"
+    },
+    {
+      "id": 2538,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IM-3. Manage application identities securely and automatically",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-3-manage-application-identities-securely-and-automatically\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-3-manage-application-identities-securely-and-automatically</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2535",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2538"
+    },
+    {
+      "id": 2539,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IM-4. Authenticate server and services",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-4-authenticate-server-and-services\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-4-authenticate-server-and-services</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2535",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2539"
+    },
+    {
+      "id": 2540,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IM-5. Use single sign-on (SSO) for application access",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-5-use-single-sign-on-sso-for-application-access\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-5-use-single-sign-on-sso-for-application-access</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2535",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2540"
+    },
+    {
+      "id": 2541,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IM-6. Use strong authentication controls",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-6-use-strong-authentication-controls\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-6-use-strong-authentication-controls</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2535",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2541"
+    },
+    {
+      "id": 2542,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IM-7. Restrict resource access based on  conditions",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-7-restrict-resource-access-based-on--conditions\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-7-restrict-resource-access-based-on--conditions</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2535",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2542"
+    },
+    {
+      "id": 2543,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IM-8. Restrict the exposure of credential and secrets",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-8-restrict-the-exposure-of-credentials-and-secrets\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-8-restrict-the-exposure-of-credentials-and-secrets</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2535",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2543"
+    },
+    {
+      "id": 2544,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IM-9. Secure user access to existing applications",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-9-secure-user-access-to--existing-applications\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-identity-management#im-9-secure-user-access-to--existing-applications</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2535",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2544"
+    },
+    {
+      "id": 2546,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PA-1. Separate and limit highly privileged/administrative users",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-1-separate-and-limit-highly-privilegedadministrative-users\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-1-separate-and-limit-highly-privilegedadministrative-users</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2545",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2546"
+    },
+    {
+      "id": 2547,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PA-2. Avoid standing access for user accounts and permissions",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-2-avoid-standing-access-for-user-accounts-and-permissions\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-2-avoid-standing-access-for-user-accounts-and-permissions</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2545",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2547"
+    },
+    {
+      "id": 2548,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PA-3. Manage lifecycle of identities and entitlements",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-3-manage-lifecycle-of-identities-and-entitlements\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-3-manage-lifecycle-of-identities-and-entitlements</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2545",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2548"
+    },
+    {
+      "id": 2549,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PA-4. Review and reconcile user access regularly",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-4-review-and-reconcile-user-access-regularly\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-4-review-and-reconcile-user-access-regularly</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2545",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2549"
+    },
+    {
+      "id": 2550,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PA-5. Set up emergency access",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-5-set-up-emergency-access\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-5-set-up-emergency-access</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2545",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2550"
+    },
+    {
+      "id": 2551,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PA-6. Use privileged access workstations / channel for administrative tasks",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-6-use-privileged-access-workstations\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-6-use-privileged-access-workstations</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2545",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2551"
+    },
+    {
+      "id": 2552,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PA-7. Follow just enough administration (least privilege) principle",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-7-follow-just-enough-administration-least-privilege-principle\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-7-follow-just-enough-administration-least-privilege-principle</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2545",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2552"
+    },
+    {
+      "id": 2553,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PA-8. Determine access process for cloud provider support",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-8-determine-access-process-for-cloud-provider-support\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-privileged-access#pa-8-determine-access-process-for-cloud-provider-support</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2545",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2553"
+    },
+    {
+      "id": 2555,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DP-1. Discover, classify, and label sensitive data",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-1-discover-classify-and-label-sensitive-data\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-1-discover-classify-and-label-sensitive-data</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2554",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2555"
+    },
+    {
+      "id": 2556,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DP-2. Monitor anomalies and threats targeting sensitive data",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-2-monitor-anomalies-and-threats-targeting-sensitive-data\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-2-monitor-anomalies-and-threats-targeting-sensitive-data</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2554",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2556"
+    },
+    {
+      "id": 2557,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DP-3. Encrypt sensitive data in transit",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-3-encrypt-sensitive-data-in-transit\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-3-encrypt-sensitive-data-in-transit</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2554",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2557"
+    },
+    {
+      "id": 2558,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DP-4. Enable data at rest encryption by default",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-4-enable-data-at-rest-encryption-by-default\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-4-enable-data-at-rest-encryption-by-default</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2554",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2558"
+    },
+    {
+      "id": 2559,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DP-5. Use customer-managed key option in data at rest encryption when required",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-5-use-customer-managed-key-option-in-data-at-rest-encryption-when-required\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-5-use-customer-managed-key-option-in-data-at-rest-encryption-when-required</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2554",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2559"
+    },
+    {
+      "id": 2560,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DP-6. Use a secure key management process",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-6-use-a-secure-key-management-process\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-6-use-a-secure-key-management-process</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2554",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2560"
+    },
+    {
+      "id": 2561,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DP-7. Use a secure certificate management process",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-7-use-a-secure-certificate-management-process\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-7-use-a-secure-certificate-management-process</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2554",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2561"
+    },
+    {
+      "id": 2562,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DP-8. Ensure security of key and certificate repository",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-8-ensure-security-of-key-and-certificate-repository\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-data-protection#dp-8-ensure-security-of-key-and-certificate-repository</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2554",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2562"
+    },
+    {
+      "id": 2564,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "AM-1. Track asset inventory and their risks",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-asset-management#am-1-track-asset-inventory-and-their-risks\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-asset-management#am-1-track-asset-inventory-and-their-risks</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2563",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2564"
+    },
+    {
+      "id": 2565,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "AM-2. Use only approved services",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-asset-management#am-2-use-only-approved-services\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-asset-management#am-2-use-only-approved-services</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2563",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2565"
+    },
+    {
+      "id": 2566,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "AM-3. Ensure security of asset lifecycle management",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-asset-management#am-3-ensure-security-of-asset-lifecycle-management\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-asset-management#am-3-ensure-security-of-asset-lifecycle-management</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2563",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2566"
+    },
+    {
+      "id": 2567,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "AM-4. Limit access to asset management",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-asset-management#am-4-limit-access-to-asset-management\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-asset-management#am-4-limit-access-to-asset-management</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2563",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2567"
+    },
+    {
+      "id": 2568,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "AM-5. Use only approved applications in virtual machine",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-asset-management#am-5-use-only-approved-applications-in-virtual-machine\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-asset-management#am-5-use-only-approved-applications-in-virtual-machine</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2563",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2568"
+    },
+    {
+      "id": 2570,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "LT-1. Enable threat detection capabilities",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-1-enable-threat-detection-capabilities\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-1-enable-threat-detection-capabilities</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2569",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2570"
+    },
+    {
+      "id": 2571,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "LT-2. Enable threat detection for  identity and access management",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-2-enable-threat-detection-for--identity-and-access-management\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-2-enable-threat-detection-for--identity-and-access-management</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2569",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2571"
+    },
+    {
+      "id": 2572,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "LT-3. Enable logging for security investigation",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-3-enable-logging-for-security-investigation\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-3-enable-logging-for-security-investigation</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2569",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2572"
+    },
+    {
+      "id": 2573,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "LT-4. Enable network logging for security investigation",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-4-enable-network-logging-for-security-investigation\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-4-enable-network-logging-for-security-investigation</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2569",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2573"
+    },
+    {
+      "id": 2574,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "LT-5. Centralize security log management and analysis",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-5-centralize-security-log-management-and-analysis\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-5-centralize-security-log-management-and-analysis</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2569",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2574"
+    },
+    {
+      "id": 2575,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "LT-6. Configure log storage retention",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-6-configure-log-storage-retention\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-6-configure-log-storage-retention</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2569",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2575"
+    },
+    {
+      "id": 2576,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "LT-7. Use approved time synchronization sources",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-7-use-approved-time-synchronization-sources\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-logging-threat-detection#lt-7-use-approved-time-synchronization-sources</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2569",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2576"
+    },
+    {
+      "id": 2578,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IR-1. Preparation - update incident response plan and handling process",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-1-preparation---update-incident-response-plan-and-handling-process\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-1-preparation---update-incident-response-plan-and-handling-process</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2577",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2578"
+    },
+    {
+      "id": 2579,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IR-2. Preparation - setup incident contact information",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-2-preparation---setup-incident-notification\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-2-preparation---setup-incident-notification</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2577",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2579"
+    },
+    {
+      "id": 2580,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IR-3. Detection and analysis - create incidents based on high-quality alerts",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-3-detection-and-analysis---create-incidents-based-on-high-quality-alerts\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-3-detection-and-analysis---create-incidents-based-on-high-quality-alerts</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2577",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2580"
+    },
+    {
+      "id": 2581,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IR-4. Detection and analysis - investigate an incident",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-4-detection-and-analysis---investigate-an-incident\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-4-detection-and-analysis---investigate-an-incident</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2577",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2581"
+    },
+    {
+      "id": 2582,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IR-5. Detection and analysis - prioritize incidents",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-5-detection-and-analysis---prioritize-incidents\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-5-detection-and-analysis---prioritize-incidents</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2577",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2582"
+    },
+    {
+      "id": 2583,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IR-6. Containment, eradication and recovery - automate the incident handling",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-6-containment-eradication-and-recovery---automate-the-incident-handling\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-6-containment-eradication-and-recovery---automate-the-incident-handling</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2577",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2583"
+    },
+    {
+      "id": 2584,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "IR-7. Post-incident activity - conduct lesson learned and retain evidence",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-7-post-incident-activity---conduct-lessons-learned-and-retain-evidence\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response#ir-7-post-incident-activity---conduct-lessons-learned-and-retain-evidence</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2577",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2584"
+    },
+    {
+      "id": 2586,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PV-1. Define and establish secure configurations",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-1-define-and-establish-secure-configurations\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-1-define-and-establish-secure-configurations</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2585",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2586"
+    },
+    {
+      "id": 2587,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PV-2. Audit and enforce secure configurations",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-2-audit-and-enforce-secure-configurations\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-2-audit-and-enforce-secure-configurations</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2585",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2587"
+    },
+    {
+      "id": 2588,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PV-3. Define and establish secure configurations for compute resources",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-3-define-and-establish-secure-configurations-for-compute-resources\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-3-define-and-establish-secure-configurations-for-compute-resources</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2585",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2588"
+    },
+    {
+      "id": 2589,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PV-4. Audit and enforce secure configurations for compute resources",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-4-audit-and-enforce-secure-configurations-for-compute-resources\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-4-audit-and-enforce-secure-configurations-for-compute-resources</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2585",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2589"
+    },
+    {
+      "id": 2590,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PV-5. Perform vulnerability assessments",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-5-perform-vulnerability-assessments\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-5-perform-vulnerability-assessments</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2585",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2590"
+    },
+    {
+      "id": 2591,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PV-6. Rapidly and automatically remediate vulnerabilities",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-6-rapidly-and-automatically-remediate-vulnerabilities\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-6-rapidly-and-automatically-remediate-vulnerabilities</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2585",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2591"
+    },
+    {
+      "id": 2592,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "PV-7. Conduct regular red team operations",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-7-conduct-regular-red-team-operations\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-posture-vulnerability-management#pv-7-conduct-regular-red-team-operations</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2585",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2592"
+    },
+    {
+      "id": 2594,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "ES-1. Use Endpoint Detection and Response (EDR)",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-endpoint-security#es-1-use-endpoint-detection-and-response-edr\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-endpoint-security#es-1-use-endpoint-detection-and-response-edr</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2593",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2594"
+    },
+    {
+      "id": 2595,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "ES-2. Use modern anti-malware software",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-endpoint-security#es-2-use-modern-anti-malware-software\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-endpoint-security#es-2-use-modern-anti-malware-software</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2593",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2595"
+    },
+    {
+      "id": 2596,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "ES-3. Ensure anti-malware software and signatures are updated",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-endpoint-security#es-3-ensure-anti-malware-software-and-signatures-are-updated\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-endpoint-security#es-3-ensure-anti-malware-software-and-signatures-are-updated</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2593",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2596"
+    },
+    {
+      "id": 2598,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "BR-1. Ensure regular automated backups",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-backup-recovery#br-1-ensure-regular-automated-backups\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-backup-recovery#br-1-ensure-regular-automated-backups</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2597",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2598"
+    },
+    {
+      "id": 2599,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "BR-2. Protect backup and recovery data",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-backup-recovery#br-2-protect-backup-and-recovery-data\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-backup-recovery#br-2-protect-backup-and-recovery-data</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2597",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2599"
+    },
+    {
+      "id": 2600,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "BR-3. Monitor backups",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-backup-recovery#br-3-monitor-backups\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-backup-recovery#br-3-monitor-backups</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2597",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2600"
+    },
+    {
+      "id": 2601,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "BR-4. Regularly test backup",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-backup-recovery#br-4-regularly-test-backup\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-backup-recovery#br-4-regularly-test-backup</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2597",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2601"
+    },
+    {
+      "id": 2603,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DS-1. Conduct threat modeling",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-1-conduct-threat-modeling\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-1-conduct-threat-modeling</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2602",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2603"
+    },
+    {
+      "id": 2604,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DS-2. Ensure software supply chain security",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-2-ensure-software-supply-chain-security\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-2-ensure-software-supply-chain-security</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2602",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2604"
+    },
+    {
+      "id": 2605,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DS-3. Secure DevOps infrastructure",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-3-secure-devops-infrastructure\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-3-secure-devops-infrastructure</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2602",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2605"
+    },
+    {
+      "id": 2606,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DS-4. Integrate static application security testing into DevOps pipeline",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-4-integrate-static-application-security-testing-into-devops-pipeline\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-4-integrate-static-application-security-testing-into-devops-pipeline</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2602",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2606"
+    },
+    {
+      "id": 2607,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DS-5. Integrate dynamic application security testing into DevOps pipeline",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-5-integrate-dynamic-application-security-testing-into-devops-pipeline\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-5-integrate-dynamic-application-security-testing-into-devops-pipeline</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2602",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2607"
+    },
+    {
+      "id": 2608,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DS-6. Enforce security of workload throughout DevOps lifecycle",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-6-enforce-security-of-workload-throughout-devops-lifecycle\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-6-enforce-security-of-workload-throughout-devops-lifecycle</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2602",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2608"
+    },
+    {
+      "id": 2609,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "DS-7. Enable logging and monitoring in DevOps",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-7-enable-logging-and-monitoring-in-devops\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-devops-security#ds-7-enable-logging-and-monitoring-in-devops</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2602",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2609"
+    },
+    {
+      "id": 2611,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "GS-1. Align organization roles, responsibilities and accountabilities",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-1-align-organization-roles-responsibilities-and-accountabilities\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-1-align-organization-roles-responsibilities-and-accountabilities</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2610",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2611"
+    },
+    {
+      "id": 2612,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "GS-2. Define and implement enterprise segmentation/separation of duties strategy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-2-define-and-implement-enterprise-segmentationseparation-of-duties-strategy\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-2-define-and-implement-enterprise-segmentationseparation-of-duties-strategy</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2610",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2612"
+    },
+    {
+      "id": 2613,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "GS-3. Define and implement data protection strategy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-3-define-and-implement-data-protection-strategy\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-3-define-and-implement-data-protection-strategy</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2610",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2613"
+    },
+    {
+      "id": 2614,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "GS-4. Define and implement network security strategy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-4-define-and-implement-network-security-strategy\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-4-define-and-implement-network-security-strategy</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2610",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2614"
+    },
+    {
+      "id": 2615,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "GS-5. Define and implement security posture management strategy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-5-define-and-implement-security-posture-management-strategy\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-5-define-and-implement-security-posture-management-strategy</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2610",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2615"
+    },
+    {
+      "id": 2616,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "GS-6. Define and implement identity and privileged access strategy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-6-define-and-implement-identity-and-privileged-access-strategy\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-6-define-and-implement-identity-and-privileged-access-strategy</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2610",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2616"
+    },
+    {
+      "id": 2617,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "GS-7. Define and implement logging, threat detection and incident response strategy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-6-define-and-implement-identity-and-privileged-access-strategy\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-6-define-and-implement-identity-and-privileged-access-strategy</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2610",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2617"
+    },
+    {
+      "id": 2618,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "GS-8. Define and implement backup and recovery strategy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-6-define-and-implement-identity-and-privileged-access-strategy\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-6-define-and-implement-identity-and-privileged-access-strategy</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2610",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2618"
+    },
+    {
+      "id": 2619,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "GS-9. Define and implement endpoint security strategy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-9-define-and-implement-endpoint-security-strategy\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-9-define-and-implement-endpoint-security-strategy</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2610",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2619"
+    },
+    {
+      "id": 2620,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "GS-10. Define and implement DevOps security strategy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-10-define-and-implement-devops-security-strategy\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-10-define-and-implement-devops-security-strategy</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2610",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2620"
+    },
+    {
+      "id": 2621,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "MCSB",
+        "System.TeamProject": "MCSB",
+        "System.IterationPath": "MCSB",
+        "System.WorkItemType": "User Story",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.CreatedDate": "2023-08-11T10:43:14.17Z",
+        "System.CreatedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.ChangedDate": "2023-08-11T10:43:14.17Z",
+        "System.ChangedBy": "Ståle Johnsen <stale.johnsen@microsoft.com>",
+        "System.Title": "GS-11. Define and implement multi-cloud security strategy",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": "<a href=\"https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-11-define-and-implement-multi-cloud-security-strategy\">https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-governance-strategy#gs-11-define-and-implement-multi-cloud-security-strategy</a>",
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": [
+        {
+          "rel": "System.LinkTypes.Hierarchy-Reverse",
+          "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2610",
+          "attributes": {
+            "isLocked": "false",
+            "name": "Parent"
+          }
+        }
+      ],
+      "url": "https://dev.azure.com/stalejohnsendev/_apis/wit/workItems/2621"
+    }
+  ],
+  "HttpStatusCode": 0,
+  "Message": null
+}
